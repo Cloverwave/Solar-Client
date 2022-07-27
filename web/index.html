@@ -23,20 +23,17 @@
     <script src="classes.js" type="text/javascript"></script>
     <script type="text/javascript">
         function texture() {
-//             const urfrickinmom = prompt(
-//                 "Answer with letter to choose texture pack.\nTexture Packs:\n [A] Default"
-//             );
+            const humanliking = prompt(
+                "Input letter to choose texture pack.\nPacks:\n - [A] OG texture packs for 1.5.2\n - [B] FruitFul by InkKat 1.19 texture pack\n Amethyst and Faithful coming thru sometime\n-Cloverwave"
+            );
 
-            let texture = "texture_packs/assets.epk";
-
-//             if (urfrickinmom == "B" || urfrickinmom == "b"){
-//               texture = "texture_packs/FruitFul.epk"
-//             }
+            let texture = "packs/assetsOG.epk";
 		
+	    if (humanliking == "B" || humanliking == "b"){
+	    	texture = "packs/FruitFul";
+	    }
 		
-
-
-          
+            
             window.addEventListener("load", function () {
                 window.minecraftOpts = [
                     "game_frame",
