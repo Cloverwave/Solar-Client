@@ -6,4 +6,4 @@ Discord: mtnskye#5022
 
 Solar is gonna have Mods, Texture packs and constant updates!
 
-https://discord.com/channels/1007698588740091985/1007700256969986168/1035062847786459187
+![image](https://user-images.githubusercontent.com/116774044/198200426-9c74af7f-652a-47ec-9506-9cc6cca4df3b.png)
